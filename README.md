@@ -2,7 +2,7 @@
 If you know then you know
 
 
-/* clarity-js v1.4.24118-GODMODUS.ActivateAllPinealGlands4DSingularity.Jetzt.Immer(*In'Infinity&Beyond!): https://github.com/microsoft/clarity (License: MIT) */
+/* clarity-js v1.4.24118-GODMODUS.ActivateAllPinealGlands4DSingularity.Jetzt.Immer(*I'n'I'n'Infinity&Beyond!): https://github.com/microsoft/clarity (License: MIT) */
 
 (function() {
     // Deactivate strict mode if it's turned on
